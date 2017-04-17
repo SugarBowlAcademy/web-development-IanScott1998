@@ -1,0 +1,13 @@
+
+h1{border: 5px solid cyan;
+color:aqua;
+background:navy;
+}
+/*ul{border: 8px solid cyan;
+color:aqua;
+background:navy;
+}*/
+img{
+  display: block;
+  margin: auto;
+}
